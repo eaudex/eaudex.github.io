@@ -1,7 +1,5 @@
+# This Is a MarkDown Test
+I am keeping notes in markdown language.
 
-# This Is a Test
-I write the content in markdown language.
-
-## How Cool It is
+## How Cool It Is?
 Very cool.
-
