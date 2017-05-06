@@ -30,6 +30,8 @@ while x is not optimal:
 
 ### Trust Region
 
+### When to use which??
+
 
 
 ## Facts
