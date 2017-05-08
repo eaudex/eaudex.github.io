@@ -1,5 +1,12 @@
 # Vagrant
+## Set up Work Environment
+```
+>> brew cask install virtualbox
+>> brew cask install vagrant
+```
+* http://sourabhbajaj.com/mac-setup/Vagrant/README.html
 
+## Use Vagrant
 ```
 >> vagrant init     # to generate `Vagrantfile`
 >> vagrant up       # to provision a VM with Vagrantfile
