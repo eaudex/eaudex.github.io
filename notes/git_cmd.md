@@ -11,3 +11,5 @@ git checkout <local-branch>
 git commit --amend
 ```
 
+* [ref] https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+
